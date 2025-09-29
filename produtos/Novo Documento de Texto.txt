@@ -1,0 +1,39 @@
+    *SPRITE*
+
+A Sprite é o refrigerante de lima-limão líder mundial, produzido pela The Coca-Cola Company.
+ Lançada nos EUA em 1961, sua origem remonta à Alemanha em 1959.
+
+Reconhecida por seu sabor cítrico, intenso e efervescente, 
+a Sprite é transparente (sem corantes) e livre de cafeína, sendo sinônimo de refrescância pura. 
+Sua identidade está fortemente ligada à cultura jovem e autêntica. Além da versão original,
+ é popular a Sprite Zero Açúcar, mantendo o sabor clássico com zero calorias.
+ É amplamente consumida pura ou como base para drinks.
+
+
+    *JACK DANIEL'S*
+Jack Daniel's & Coca-Cola (Jack & Coke) em lata, um coquetel pronto para beber (RTD). 
+A bebida combina o Tennessee Whiskey com a Coca-Cola (também disponível em Zero Açúcar), 
+replicando um dos drinks de bar mais populares do mundo. Foi lançada globalmente a partir de 2022/2023, com teor alcoólico
+ de cerca de 5% (variável por país),
+ marcando a expansão da Coca-Cola na categoria de bebidas alcoólicas.
+
+  *COCA-COLA ORIGINAL*
+Coca-cola original é o refrigerante mais famoso do mundo, criado em 1886 nos EUA. 
+Seu sabor único de cola, 
+com notas cítricas e especiarias, é baseado na Fórmula 7X,
+ um dos segredos comerciais mais bem guardados da história.
+
+    *COCA-COLA ZERO*
+A Coca-Cola Zero Açúcar é a versão sem calorias da Coca-Cola, lançada em 2005 
+com o objetivo de ter um sabor quase idêntico ao da fórmula original.
+A bebida utiliza adoçantes artificiais para manter a doçura e foi reformulada para aprimorar
+sua semelhança com a Coca-Cola Clássica. Ela é um produto-chave na estratégia da empresa de oferecer opções zero açúcar, 
+sendo um sucesso global entre os consumidores que buscam uma alternativa sem calorias.
+
+
+     *COCA-COLA BYTE*
+ COCA-COLA Byte um refrigerante de edição limitada lançado em 2022 sob a plataforma Coca-Cola Creations. 
+Foi o primeiro sabor da marca a ser "nascido no metaverso", 
+com o conceito de ter "gosto de pixels".
+
+
